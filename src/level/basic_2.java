@@ -18,7 +18,7 @@ public class basic_2 {
         String m=sc.next();
         System.out.println("Last name:");
         String l=sc.next();
-        System.out.println("Full name:"+ f+" "+ m+" "+ l);
+        System.out.println("Full Name:"+ f+" "+ m+" "+ l);
         System.out.println("short form:"+ f.charAt(0)+"."+m.charAt(0)+"."+l.charAt(0) );
     }
     
